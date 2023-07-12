@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hanifa_maimaitijiang_java3_hw1</string>
+
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+    <string name="subject">Subject</string>
+</resources>
